@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>COMP 2600 Assignment 2 - Resume</title><link href="https://seigfrieds.github.io/ferretsunlimited/" rel="alternate"></link><link href="https://seigfrieds.github.io/ferretsunlimited/feeds/resume.atom.xml" rel="self"></link><id>https://seigfrieds.github.io/ferretsunlimited/</id><updated>2025-03-05T02:00:00-06:00</updated><entry><title>The Resume!</title><link href="https://seigfrieds.github.io/ferretsunlimited/the-resume.html" rel="alternate"></link><published>2025-03-05T02:00:00-06:00</published><updated>2025-03-05T02:00:00-06:00</updated><author><name>Andre</name></author><id>tag:seigfrieds.github.io,2025-03-05:/ferretsunlimited/the-resume.html</id><summary type="html">&lt;h1&gt;Luka Doncic&lt;/h1&gt;
-&lt;p&gt;Email: doncicl@uni.edu&lt;br&gt;
-Phone Number: (777) 777-7777&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: doncicl@uni.edu&lt;br&gt;
+&lt;strong&gt;Phone Number&lt;/strong&gt;: (777) 777-7777&lt;/p&gt;
 &lt;h2&gt;EDUCATION&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;B.S. Computer Science&lt;/strong&gt;, GPA: 3.92&lt;br&gt;
 University of Dallas&lt;br&gt;
@@ -15,8 +15,8 @@ University of Dallas&lt;br&gt;
 &lt;h3&gt;Google&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Software Developer Intern&lt;/strong&gt;&lt;br&gt;
 Jan …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Luka Doncic&lt;/h1&gt;
-&lt;p&gt;Email: doncicl@uni.edu&lt;br&gt;
-Phone Number: (777) 777-7777&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: doncicl@uni.edu&lt;br&gt;
+&lt;strong&gt;Phone Number&lt;/strong&gt;: (777) 777-7777&lt;/p&gt;
 &lt;h2&gt;EDUCATION&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;B.S. Computer Science&lt;/strong&gt;, GPA: 3.92&lt;br&gt;
 University of Dallas&lt;br&gt;
